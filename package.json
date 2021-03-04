@@ -1,0 +1,45 @@
+{
+  "name": "sistem_informasi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@algoz098/vue-player": "^0.4.3",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "register-service-worker": "^1.7.1",
+    "v-video-embed": "^1.0.8",
+    "vue": "^2.6.11",
+    "vue-core-video-player": "^0.2.0",
+    "vue-lazy-youtube-video": "^2.3.0",
+    "vue-router": "^3.2.0",
+    "vue-video": "^0.1.7",
+    "vue-videojs7": "^0.1.5",
+    "vue-xgplayer": "^0.4.2",
+    "vuetify": "^2.4.0",
+    "vuetify-media-player": "^0.8.1",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-unit-mocha": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/test-utils": "^1.0.3",
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.1.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
